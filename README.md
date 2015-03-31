@@ -1,6 +1,6 @@
 # Who is Mr. Hyde?
 
-Mr. Hyde is a minimalist implementation of Jekyll and Github pages. 
+Mr. Hyde is a minimalist implementation of Jekyll and Github  pages. 
 
 ## The First Time is Free
 
